@@ -5,7 +5,7 @@ ID:1915002506
 */
 #include<stdio.h>
 int main(){
- /*
+ 
      char a;
      int b;
      float c;
@@ -19,20 +19,8 @@ int main(){
      printf("\nSize of str:%d", sizeof(f));
 
    return 0;
-} */
+} 
 
- int a;
- char c;
- float f;
- double d;
- char b;
+ 
 
-     printf("\nSize of a:%d", sizeof(a));
-     printf("\nSize of c:%d", sizeof(c));
-     printf("\nSize of f:%d", sizeof(f));
-     printf("\nSize of d:%d", sizeof(d));
-     printf("\nSize of str:%d", sizeof(b));
-
-     return 0;
-     }
-
+    
